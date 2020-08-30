@@ -1,0 +1,26 @@
+---
+title: WasScarnSharkwarma
+author: Sam Lske
+date: '2020-08-30'
+slug: goodeat
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-30T20:34:29+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Wosup bro naaaaa la 
+
+```{r}
+library(tidyverse)
+ggplot(cars, aes(speed, dist)) +
+  geom_point() 
+```
